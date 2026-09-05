@@ -1,0 +1,6 @@
+{
+  "name": "Estoque Inteligente",
+  "description": "Plataforma completa de gestão de estoque, vendas PDV, compras, transferências, kits e operação móvel multi-empresa e multi-filial.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
